@@ -7,3 +7,6 @@ I will learn how to make further changes and commit them.
 
 ## New Feature Section
 This section is added in the 'feature/new-section' branch.
+
+### Update from GitHub
+This line was added directly on GitHub.
